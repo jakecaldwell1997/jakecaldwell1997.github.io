@@ -1,4 +1,5 @@
 title: Jake Caldwell
 #logo:
-show_downloads: false
+description:
+show_downloads: true
 theme: jekyll-theme-minimal
