@@ -7,7 +7,7 @@
 
 ### Projects
 
-- Dissertation, "The Political Impacts of Precarious Work"
+- Dissertation, "The Political Implications of Precarious Work"
   *This dissertation explores the impacts of precarious work arrangements on American workers' political behaviors and attitudes.
   * Employs advanced quantitative methodology such as multilevel regression models, structural equation models, and survey design to explore complex relationships between workplace exeperiences and political behaviors and attitudes.
   * Develops unique linking strategy of Current Population Survey Supplement responses to create novel dataset which contains detailed information on both individual-level contract type and voting behavior in order to derive insights into the effects of precarious work on voting.
