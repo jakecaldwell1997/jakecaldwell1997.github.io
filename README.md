@@ -1,14 +1,14 @@
 # Jake Caldwell, Data Scientist
 
 ### Education
-- PhD, Political Science at University of Florida (expected graduation date: May 2025)
+- PhD, Political Science at University of Florida (expected graduation date: June 2025)
 - MA, Political Science at University of Florida (May 2023)
 - BA, Political Science at Stetson University *with honors* (May 2019)
 
 ### Projects
 
 - Dissertation, "The Political Implications of Precarious Work"
-  * This dissertation explores the impacts of precarious work arrangements on American workers' political behaviors and attitudes.
+  * Dissertation is a large-scale research project which explores the impacts of precarious work arrangements on American workers' political behaviors and attitudes.
   * Employs advanced quantitative methodology such as multilevel regression models, structural equation models, and survey design to explore complex relationships between workplace exeperiences and political behaviors and attitudes.
   * Develops unique linking strategy of Current Population Survey Supplement responses to create novel dataset which contains detailed information on both individual-level contract type and voting behavior in order to derive insights into the effects of precarious work on voting.
   * Exlpores the policy space in which precarious workers do (or do not) receive workplace protections.
@@ -23,7 +23,7 @@
 ### Work Experience
 
 - Graduate Researcher, *University of Florida*
-  * Currently involved in machine learning classification project with Edo Navot (University of Florida Sociology Department).  Involves developing and refining classification models using sci-kit learn and deployment to UF supercomputer HiPerGator to eventually apply to larger-scale census data.
+  * Currently developing machine learning classification project with Edo Navot (University of Florida Sociology Department).  Involves developing and refining classification models using sci-kit learn and deployment to UF supercomputer HiPerGator to eventually apply to larger-scale census data.
 - Instructor of Record
   * POS3233 - Politics and Public Opinion
     * Summer 2024
